@@ -1,0 +1,14 @@
+# Video Editor GUI Distribution
+Created: 2025-06-13 16:03:44
+Platform: Cross-platform (Windows, macOS, Linux)
+Python: 3.8+ required
+
+## Quick Start for Windows:
+1. Ensure Python 3.8+ is installed
+2. Double-click run_windows.bat
+3. Wait for setup to complete
+4. Use the application
+
+## Manual Start:
+1. Run: python setup.py
+2. Run: python main.py
